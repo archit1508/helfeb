@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>n9.png</filename>
+	<path>/Users/Archit/Desktop/object detection/HelmetNov/data/images/train/n9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>752</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>348</ymin>
+			<xmax>352</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NumberPlate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>490</ymin>
+			<xmax>317</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

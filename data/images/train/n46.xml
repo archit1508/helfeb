@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train2</folder>
+	<filename>n46.jpg</filename>
+	<path>/Users/Archit/Desktop/object detection/HelmetNov/data/images/train2/n46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>20</ymin>
+			<xmax>237</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no-helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>47</ymin>
+			<xmax>485</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>
