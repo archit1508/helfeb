@@ -1,38 +1,26 @@
 <annotation>
 	<folder>train</folder>
-	<filename>n46.png</filename>
-	<path>/Users/Archit/Desktop/object detection/HelemtFeb/data/images/train/n46.png</path>
+	<filename>n2.jpeg</filename>
+	<path>/Users/Archit/Desktop/object detection/HelemtFeb/data/images/train/n2.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>812</width>
-		<height>760</height>
+		<width>300</width>
+		<height>301</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>plate</name>
+		<name>noh</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>391</xmin>
-			<ymin>445</ymin>
-			<xmax>447</xmax>
-			<ymax>493</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tw</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>332</xmin>
-			<ymin>271</ymin>
-			<xmax>561</xmax>
-			<ymax>729</ymax>
+			<xmin>116</xmin>
+			<ymin>44</ymin>
+			<xmax>149</xmax>
+			<ymax>85</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>401</xmin>
-			<ymin>69</ymin>
-			<xmax>460</xmax>
-			<ymax>190</ymax>
+			<xmin>122</xmin>
+			<ymin>76</ymin>
+			<xmax>145</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>139</ymin>
+			<xmax>177</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,50 +1,50 @@
 <annotation>
 	<folder>train</folder>
-	<filename>n19.png</filename>
-	<path>/Users/Archit/Desktop/object detection/HelmetNov/data/images/train/n19.png</path>
+	<filename>n19.jpg</filename>
+	<path>/Users/Archit/Desktop/object detection/HelemtFeb/data/images/train/n19.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>498</width>
-		<height>820</height>
+		<width>930</width>
+		<height>620</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>NumberPlate</name>
+		<name>tw</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
-			<ymin>485</ymin>
-			<xmax>309</xmax>
-			<ymax>524</ymax>
+			<xmin>360</xmin>
+			<ymin>260</ymin>
+			<xmax>491</xmax>
+			<ymax>548</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>vehicle</name>
+		<name>noh</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>135</xmin>
-			<ymin>311</ymin>
-			<xmax>336</xmax>
-			<ymax>820</ymax>
+			<xmin>422</xmin>
+			<ymin>148</ymin>
+			<xmax>468</xmax>
+			<ymax>205</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>no-helmet</name>
+		<name>plate</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>179</xmin>
-			<ymin>1</ymin>
-			<xmax>268</xmax>
-			<ymax>141</ymax>
+			<xmin>305</xmin>
+			<ymin>337</ymin>
+			<xmax>379</xmax>
+			<ymax>362</ymax>
 		</bndbox>
 	</object>
 </annotation>

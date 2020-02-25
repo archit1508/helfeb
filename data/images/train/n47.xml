@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>n39.png</filename>
-	<path>/Users/Archit/Desktop/object detection/HelemtFeb/data/images/train/n39.png</path>
+	<filename>n47.png</filename>
+	<path>/Users/Archit/Desktop/object detection/HelemtFeb/data/images/train/n47.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1072</width>
-		<height>828</height>
+		<width>446</width>
+		<height>794</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,34 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>359</xmin>
-			<ymin>134</ymin>
-			<xmax>459</xmax>
-			<ymax>314</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tw</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>268</xmin>
-			<ymin>552</ymin>
-			<xmax>616</xmax>
-			<ymax>828</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tw</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>768</xmin>
-			<ymin>198</ymin>
-			<xmax>1039</xmax>
-			<ymax>828</ymax>
+			<xmin>289</xmin>
+			<ymin>114</ymin>
+			<xmax>352</xmax>
+			<ymax>235</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>375</xmin>
-			<ymin>784</ymin>
-			<xmax>525</xmax>
-			<ymax>818</ymax>
+			<xmin>289</xmin>
+			<ymin>507</ymin>
+			<xmax>383</xmax>
+			<ymax>530</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>854</xmin>
-			<ymin>400</ymin>
-			<xmax>970</xmax>
-			<ymax>434</ymax>
+			<xmin>142</xmin>
+			<ymin>119</ymin>
+			<xmax>212</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>356</ymin>
+			<xmax>446</xmax>
+			<ymax>781</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>11</ymin>
+			<xmax>255</xmax>
+			<ymax>366</ymax>
 		</bndbox>
 	</object>
 </annotation>

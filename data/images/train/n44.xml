@@ -1,98 +1,50 @@
 <annotation>
-	<folder>train2</folder>
-	<filename>n44.gif</filename>
-	<path>/Users/Archit/Desktop/object detection/HelmetNov/data/images/train2/n44.gif</path>
+	<folder>train</folder>
+	<filename>n44.png</filename>
+	<path>/Users/Archit/Desktop/object detection/HelemtFeb/data/images/train/n44.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>620</width>
-		<height>376</height>
+		<width>520</width>
+		<height>704</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>vehicle</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>264</xmin>
-			<ymin>129</ymin>
-			<xmax>354</xmax>
-			<ymax>376</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>vehicle</name>
+		<name>tw</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>128</xmin>
-			<ymin>129</ymin>
-			<xmax>230</xmax>
-			<ymax>339</ymax>
+			<xmin>246</xmin>
+			<ymin>266</ymin>
+			<xmax>450</xmax>
+			<ymax>683</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>NumberPlate</name>
+		<name>plate</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>273</xmin>
-			<ymin>215</ymin>
-			<xmax>311</xmax>
-			<ymax>239</ymax>
+			<xmin>277</xmin>
+			<ymin>366</ymin>
+			<xmax>360</xmax>
+			<ymax>385</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>NumberPlate</name>
+		<name>noh</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>151</xmin>
-			<ymin>187</ymin>
-			<xmax>202</xmax>
-			<ymax>198</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>no-helmet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>215</xmin>
-			<ymin>8</ymin>
-			<xmax>250</xmax>
-			<ymax>59</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>no-helmet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>326</xmin>
-			<ymin>21</ymin>
-			<xmax>365</xmax>
-			<ymax>81</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>no-helmet</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>257</xmin>
-			<ymin>17</ymin>
-			<xmax>292</xmax>
-			<ymax>65</ymax>
+			<xmin>314</xmin>
+			<ymin>37</ymin>
+			<xmax>367</xmax>
+			<ymax>136</ymax>
 		</bndbox>
 	</object>
 </annotation>

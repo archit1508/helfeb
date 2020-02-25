@@ -1,26 +1,38 @@
 <annotation>
 	<folder>train</folder>
-	<filename>n7.jpg</filename>
-	<path>/Users/Archit/Desktop/object detection/HelemtFeb/data/images/train/n7.jpg</path>
+	<filename>n52.png</filename>
+	<path>/Users/Archit/Desktop/object detection/HelemtFeb/data/images/train/n52.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>960</width>
-		<height>540</height>
+		<width>1226</width>
+		<height>816</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>noh</name>
+		<name>tw</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>311</xmin>
-			<ymin>108</ymin>
-			<xmax>358</xmax>
-			<ymax>165</ymax>
+			<xmin>498</xmin>
+			<ymin>152</ymin>
+			<xmax>664</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>523</ymin>
+			<xmax>431</xmax>
+			<ymax>816</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>99</xmin>
-			<ymin>84</ymin>
-			<xmax>145</xmax>
-			<ymax>154</ymax>
+			<xmin>93</xmin>
+			<ymin>558</ymin>
+			<xmax>198</xmax>
+			<ymax>687</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +53,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>143</xmin>
-			<ymin>109</ymin>
-			<xmax>174</xmax>
-			<ymax>155</ymax>
+			<xmin>293</xmin>
+			<ymin>334</ymin>
+			<xmax>369</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>noh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>943</xmin>
+			<ymin>281</ymin>
+			<xmax>1009</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>noh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>173</ymin>
+			<xmax>348</xmax>
+			<ymax>258</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,46 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>264</xmin>
-			<ymin>259</ymin>
-			<xmax>317</xmax>
-			<ymax>287</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>plate</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>461</xmin>
-			<ymin>273</ymin>
-			<xmax>532</xmax>
-			<ymax>283</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tw</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>426</xmin>
-			<ymin>203</ymin>
-			<xmax>575</xmax>
-			<ymax>481</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tw</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>230</xmin>
-			<ymin>206</ymin>
-			<xmax>414</xmax>
-			<ymax>471</ymax>
+			<xmin>285</xmin>
+			<ymin>671</ymin>
+			<xmax>396</xmax>
+			<ymax>705</ymax>
 		</bndbox>
 	</object>
 </annotation>
